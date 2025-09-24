@@ -1,0 +1,4 @@
+node_modules/
+keys_database.json
+.env
+*.log
